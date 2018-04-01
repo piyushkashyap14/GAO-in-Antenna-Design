@@ -1,4 +1,4 @@
-# GAO-in-Antenna-Design-
+# GAO-in-Antenna-Design
 GENETIC ALGORITHM OPTIMIZATION IN ANTENNA DESIGN
 
 ## Abstract
